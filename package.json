@@ -1,0 +1,19 @@
+{
+  "name": "scraperpj",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "fs": "^0.0.1-security",
+    "nodemailer": "^6.10.1",
+    "puppeteer": "^24.6.1",
+    "xlsx": "^0.18.5"
+  }
+}
