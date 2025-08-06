@@ -1,4 +1,4 @@
-﻿# ScraperPJ-sm
+﻿# ScraperPJ
 
 Bellum Politics is an agency specialized in political strategy, electoral propaganda, and persuasive content production for political campaigns. The company focuses on designing winning campaigns through the “Bellum Method,” a comprehensive approach that combines public opinion research, voter segmentation, political ads, digital content, crisis management, and candidate training for interviews and debates. Its mission is to help candidates maximize their votes and improve their public positioning through a professional and highly effective propaganda machine.
 
@@ -14,3 +14,4 @@ My Technical Contributions at Bellum Politics (One-Person Team):
 - Managed end-to-end data pipelines, connecting scraping, processing, messaging, and tracking, demonstrating advanced backend workflow design and automation capabilities.
 
 <img width="6400" height="6400" alt="bellum" src="https://github.com/user-attachments/assets/07b6fe30-f231-48d2-85dc-cca33ee91014" />
+
