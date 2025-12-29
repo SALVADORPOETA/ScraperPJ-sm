@@ -5,8 +5,8 @@ const pj = 1
 require('dotenv').config()
 
 const EMAIL_DIARIO = 100
-const CONTACTOS_PATH = `./mensajes${pj}.json`
-// const CONTACTOS_PATH = './carlos.json'
+// const CONTACTOS_PATH = `./mensajes${pj}.json`
+const CONTACTOS_PATH = './carlos.json'
 const PROGRESS_PATH = './progress.json'
 const ENABLE_TRACKING = true
 

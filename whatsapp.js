@@ -34,7 +34,7 @@ function guardarProgreso(progreso) {
 }
 
 // Configuración de la cantidad de mensajes diarios
-const MENSAJE_DIARIO = 50 // Cambia este número según lo que necesites
+const MENSAJE_DIARIO = 10 // Cambia este número según lo que necesites
 
 ;(async () => {
   const browser = await puppeteer.launch({

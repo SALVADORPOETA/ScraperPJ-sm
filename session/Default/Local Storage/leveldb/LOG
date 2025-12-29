@@ -1,3 +1,5 @@
-2025/05/03-08:05:04.910 22ac Reusing MANIFEST C:\Users\DELL\OneDrive\Escritorio\Trabajo\Programación\Frontend\Projects\scraperPJ\session\Default\Local Storage\leveldb/MANIFEST-000001
-2025/05/03-08:05:05.011 22ac Recovering log #24
-2025/05/03-08:05:05.085 22ac Reusing old log C:\Users\DELL\OneDrive\Escritorio\Trabajo\Programación\Frontend\Projects\scraperPJ\session\Default\Local Storage\leveldb/000024.log 
+2025/05/21-10:24:13.732 2ed4 Reusing MANIFEST C:\Users\DELL\OneDrive\Escritorio\Trabajo\Programación\Frontend\Projects\scraperPJ\session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/05/21-10:24:13.778 2ed4 Recovering log #89
+2025/05/21-10:24:13.789 2ed4 Reusing old log C:\Users\DELL\OneDrive\Escritorio\Trabajo\Programación\Frontend\Projects\scraperPJ\session\Default\Local Storage\leveldb/000089.log 
+2025/05/21-10:26:58.394 18f8 Level-0 table #93: started
+2025/05/21-10:26:58.433 18f8 Level-0 table #93: 14886 bytes OK

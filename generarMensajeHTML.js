@@ -41,17 +41,17 @@ const generarMensajeHTML = (nombre, sexo) => {
           <li><strong>✅ Un Guion Base</strong>, adaptable a redes, discursos y entrevistas.</li>
         </ul>
   
-        <p>Todo esto lo trabajamos en una consultoría personalizada de 1 hora, por solo $490 pesos + IVA.</p>
+        <p>Todo esto lo trabajamos en una consultoría personalizada de 1 hora GRATUITA, y si te interesa puedes contratar mis servicios.</p>
   
-        <p>
-          🔴 Advertencia realista: si dejas pasar esta oportunidad, podrías quedarte con la duda de qué habría pasado si hubieras actuado a tiempo.
-        </p>
-  
-        <p>Pero si agendas hoy, obtienes algo mucho más valioso que una llamada: una narrativa ganadora que puede cambiar el rumbo de tu elección.</p>  
+        <p>Si agendas hoy, obtienes algo mucho más valioso que una llamada: una narrativa ganadora que puede cambiar el rumbo de tu elección.</p>  
 
-        <p>Te apuntas aquí abajo:</p>
-  
-        <p>👉 <a href="https://calendly.com/romeo-bellumpolitics/30min">Quiero mi sesión estratégica</a></p>
+        <p>👉 Agenda tu sesión estratégica: </p>
+        
+        <p>
+          <a href="https://calendly.com/romeo-bellumpolitics/30min" target="_blank" style="color:#1a0dab; text-decoration:underline;">
+            https://calendly.com/romeo-bellumpolitics/30min
+          </a>
+        </p>
   
         <br>
   
