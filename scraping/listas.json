@@ -1,0 +1,50 @@
+{
+  "1": {
+    "id": 1,
+    "nombre": "Ministras y ministros de la Suprema Corte de Justicia de la Nación",
+    "descripcion": "Ministras y ministros de la Suprema Corte de Justicia de la Nación",
+    "totalPaginas": 1,
+    "prefijoPais": "52",
+    "activo": true
+  },
+  "2": {
+    "id": 2,
+    "nombre": "Magistradas y magistrados del Tribunal de Disciplina Judicial",
+    "descripcion": "Magistradas y magistrados del Tribunal de Disciplina Judicial",
+    "totalPaginas": 1,
+    "prefijoPais": "52",
+    "activo": true
+  },
+  "3": {
+    "id": 3,
+    "nombre": "Magistradas y magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación",
+    "descripcion": "Magistradas y magistrados de la Sala Superior del Tribunal Electoral del Poder Judicial de la Federación",
+    "totalPaginas": 1,
+    "prefijoPais": "52",
+    "activo": true
+  },
+  "4": {
+    "id": 4,
+    "nombre": "Magistradas y magistrados de la Sala Regional del Tribunal Electoral del Poder Judicial de la Federación",
+    "descripcion": "Magistradas y magistrados de la Sala Regional del Tribunal Electoral del Poder Judicial de la Federación",
+    "totalPaginas": 2,
+    "prefijoPais": "52",
+    "activo": true
+  },
+  "5": {
+    "id": 5,
+    "nombre": "Magistradas y magistrados de Circuito",
+    "descripcion": "Magistradas y magistrados de Circuito",
+    "totalPaginas": 47,
+    "prefijoPais": "52",
+    "activo": true
+  },
+  "6": {
+    "id": 6,
+    "nombre": "Juezas y jueces de Distrito",
+    "descripcion": "Juezas y jueces de Distrito",
+    "totalPaginas": 39,
+    "prefijoPais": "52",
+    "activo": true
+  }
+}
